@@ -120,4 +120,3 @@ Contributions to improve the explanations, add more examples, or cover additiona
 ## Contact
 
 Email: ferhatsarikaya@hotmail.com
-[Your contact information or link to your GitHub profile]
